@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Copy of Request for Backup">46426bd71b6130108323404cbc4bcb03</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-30 07:55:00</sys_created_on>
+        <sys_id>46426bd71b6130108323404cbc4bcb07</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Copy of Request for Backup</sys_name>
+        <sys_package display_value="Privileged Account Management" source="x_557984_privilidg">7b21a7971b6130108323404cbc4bcb29</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Privileged Account Management">7b21a7971b6130108323404cbc4bcb29</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_46426bd71b6130108323404cbc4bcb07</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-30 07:55:00</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Privileged Account Management">7b21a7971b6130108323404cbc4bcb29</application>
+        <file_path/>
+        <instance_id>b0ef5965dbc797c0439ef70fbf961909</instance_id>
+        <instance_name>dev63265</instance_name>
+        <name>sc_cat_item_catalog_46426bd71b6130108323404cbc4bcb07</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Copy of Request for Backup">46426bd71b6130108323404cbc4bcb03</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-30 07:55:00</sys_created_on><sys_id>46426bd71b6130108323404cbc4bcb07</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Copy of Request for Backup</sys_name><sys_package display_value="Privileged Account Management" source="x_557984_privilidg">7b21a7971b6130108323404cbc4bcb29</sys_package><sys_policy/><sys_scope display_value="Privileged Account Management">7b21a7971b6130108323404cbc4bcb29</sys_scope><sys_update_name>sc_cat_item_catalog_46426bd71b6130108323404cbc4bcb07</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-30 07:55:00</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-247062961</payload_hash>
+        <record_name>Service Catalog.Copy of Request for Backup</record_name>
+        <reverted_from/>
+        <source>7f21a7971b6130108323404cbc4bcb2b</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-30 07:55:00</sys_created_on>
+        <sys_id>42426bd71b6130108323404cbc4bcb0a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17af668cb4e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-30 07:55:00</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>8a426bd76d6130108c156ab85e837b09</update_guid>
+        <update_guid_history>8a426bd76d6130108c156ab85e837b09:-247062961</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Copy of Request for Backup">3e64fce31ba530108323404cbc4bcb61</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-07-30 13:53:52</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>01d2e7c74533470c80d33c353a446bd1</sys_id>
+        <sys_metadata>46426bd71b6130108323404cbc4bcb07</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Copy of Request for Backup</sys_name>
+        <sys_package display_value="Privileged Account Management" source="x_557984_privilidg">7b21a7971b6130108323404cbc4bcb29</sys_package>
+        <sys_parent display_value="Request for Domain Admin Account">46426bd71b6130108323404cbc4bcb03</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Privileged Account Management">7b21a7971b6130108323404cbc4bcb29</sys_scope>
+        <sys_scope_delete display_value="">9832e2f6edcb487395d69cb7fb69f3b1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_46426bd71b6130108323404cbc4bcb07</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_46426bd71b6130108323404cbc4bcb07">42426bd71b6130108323404cbc4bcb0a</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-07-30 13:53:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <misc>0</misc>
+        <order>100</order>
+        <published_ref display_value="Computer">be99ab1b1b6130108323404cbc4bcbca</published_ref>
+        <question display_value="At what date can the privilege be removed again?">3e1438e31ba530108323404cbc4bcbb1</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-30 13:52:30</sys_created_on>
+        <sys_id>fa1438e31ba530108323404cbc4bcbc6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Computer</sys_name>
+        <sys_package display_value="Privileged Account Management" source="x_557984_privilidg">7b21a7971b6130108323404cbc4bcb29</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Privileged Account Management">7b21a7971b6130108323404cbc4bcb29</sys_scope>
+        <sys_update_name>question_choice_fa1438e31ba530108323404cbc4bcbc6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-30 13:52:30</sys_updated_on>
+        <text>Computer</text>
+        <value>Computer</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=fa1438e31ba530108323404cbc4bcbc6"/>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>fa1438e31ba530108323404cbc4bcbc6</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-30 13:52:30</sys_created_on>
+        <sys_id>7e1438e31ba530108323404cbc4bcbd4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-30 13:52:30</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>fa1438e31ba530108323404cbc4bcbc6</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-30 13:52:30</sys_created_on>
+        <sys_id>321438e31ba530108323404cbc4bcbd4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-30 13:52:30</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Privileged Account Management">7b21a7971b6130108323404cbc4bcb29</application>
+        <file_path/>
+        <instance_id>b0ef5965dbc797c0439ef70fbf961909</instance_id>
+        <instance_name>dev63265</instance_name>
+        <name>question_choice_fa1438e31ba530108323404cbc4bcbc6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><misc>0</misc><order>100</order><published_ref display_value="Computer">be99ab1b1b6130108323404cbc4bcbca</published_ref><question display_value="At what date can the privilege be removed again?">3e1438e31ba530108323404cbc4bcbb1</question><rec_misc>0</rec_misc><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-30 13:52:30</sys_created_on><sys_id>fa1438e31ba530108323404cbc4bcbc6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Computer</sys_name><sys_package display_value="Privileged Account Management" source="x_557984_privilidg">7b21a7971b6130108323404cbc4bcb29</sys_package><sys_policy/><sys_scope display_value="Privileged Account Management">7b21a7971b6130108323404cbc4bcb29</sys_scope><sys_update_name>question_choice_fa1438e31ba530108323404cbc4bcbc6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-30 13:52:30</sys_updated_on><text>Computer</text><value>Computer</value></question_choice><fx_price action="delete_multiple" query="id=fa1438e31ba530108323404cbc4bcbc6"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>misc</field><id>fa1438e31ba530108323404cbc4bcbc6</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-30 13:52:30</sys_created_on><sys_id>7e1438e31ba530108323404cbc4bcbd4</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-30 13:52:30</sys_updated_on><table>question_choice</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>rec_misc</field><id>fa1438e31ba530108323404cbc4bcbc6</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-30 13:52:30</sys_created_on><sys_id>321438e31ba530108323404cbc4bcbd4</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-30 13:52:30</sys_updated_on><table>question_choice</table><type>calculated</type></fx_price></record_update>]]></payload>
+        <payload_hash>169129169</payload_hash>
+        <record_name>Computer</record_name>
+        <reverted_from/>
+        <source>7f21a7971b6130108323404cbc4bcb2b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-30 13:52:30</sys_created_on>
+        <sys_id>f21438e31ba530108323404cbc4bcbd7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17af7b016ae0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-30 13:52:30</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>7a1438e37da53010e2fe9a48235991d6</update_guid>
+        <update_guid_history>7a1438e37da53010e2fe9a48235991d6:169129169</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Computer">db64fce31ba530108323404cbc4bcbf2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-07-30 13:53:53</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>94104b747ebb43cca235aa3d98613890</sys_id>
+        <sys_metadata>fa1438e31ba530108323404cbc4bcbc6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Computer</sys_name>
+        <sys_package display_value="Privileged Account Management" source="x_557984_privilidg">7b21a7971b6130108323404cbc4bcb29</sys_package>
+        <sys_parent display_value="">3e1438e31ba530108323404cbc4bcbb1</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Privileged Account Management">7b21a7971b6130108323404cbc4bcb29</sys_scope>
+        <sys_scope_delete display_value="">9832e2f6edcb487395d69cb7fb69f3b1</sys_scope_delete>
+        <sys_update_name>question_choice_fa1438e31ba530108323404cbc4bcbc6</sys_update_name>
+        <sys_update_version display_value="question_choice_fa1438e31ba530108323404cbc4bcbc6">f21438e31ba530108323404cbc4bcbd7</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-07-30 13:53:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

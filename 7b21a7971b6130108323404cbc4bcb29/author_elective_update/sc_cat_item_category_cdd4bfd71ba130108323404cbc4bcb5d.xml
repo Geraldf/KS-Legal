@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Request for Domain Admin Acount">46426bd71b6130108323404cbc4bcb03</sc_cat_item>
+        <sc_category display_value="Services">109f0438c6112276003ae8ac13e7009d</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-30 09:16:02</sys_created_on>
+        <sys_id>cdd4bfd71ba130108323404cbc4bcb5d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Services.Request for Domain Admin Acount</sys_name>
+        <sys_package display_value="Privileged Account Management" source="x_557984_privilidg">7b21a7971b6130108323404cbc4bcb29</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Privileged Account Management">7b21a7971b6130108323404cbc4bcb29</sys_scope>
+        <sys_update_name>sc_cat_item_category_cdd4bfd71ba130108323404cbc4bcb5d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-30 09:16:02</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Privileged Account Management">7b21a7971b6130108323404cbc4bcb29</application>
+        <file_path/>
+        <instance_id>b0ef5965dbc797c0439ef70fbf961909</instance_id>
+        <instance_name>dev63265</instance_name>
+        <name>sc_cat_item_category_cdd4bfd71ba130108323404cbc4bcb5d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Request for Domain Admin Acount">46426bd71b6130108323404cbc4bcb03</sc_cat_item><sc_category display_value="Services">109f0438c6112276003ae8ac13e7009d</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-30 09:16:02</sys_created_on><sys_id>cdd4bfd71ba130108323404cbc4bcb5d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Services.Request for Domain Admin Acount</sys_name><sys_package display_value="Privileged Account Management" source="x_557984_privilidg">7b21a7971b6130108323404cbc4bcb29</sys_package><sys_policy/><sys_scope display_value="Privileged Account Management">7b21a7971b6130108323404cbc4bcb29</sys_scope><sys_update_name>sc_cat_item_category_cdd4bfd71ba130108323404cbc4bcb5d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-30 09:16:02</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>1246098576</payload_hash>
+        <record_name>Services.Request for Domain Admin Acount</record_name>
+        <reverted_from/>
+        <source>7f21a7971b6130108323404cbc4bcb2b</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-30 09:16:03</sys_created_on>
+        <sys_id>11d4bfd71ba130108323404cbc4bcb61</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17af6b2fc340000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-30 09:16:03</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>59d4bfd7aaa13010637ae0822000d060</update_guid>
+        <update_guid_history>59d4bfd7aaa13010637ae0822000d060:1246098576</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Services.Request for Domain Admin Acount">ba64fce31ba530108323404cbc4bcb68</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-07-30 13:53:52</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>69dfbd11db2042369e860718b3dd5b91</sys_id>
+        <sys_metadata>cdd4bfd71ba130108323404cbc4bcb5d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Services.Request for Domain Admin Acount</sys_name>
+        <sys_package display_value="Privileged Account Management" source="x_557984_privilidg">7b21a7971b6130108323404cbc4bcb29</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Privileged Account Management">7b21a7971b6130108323404cbc4bcb29</sys_scope>
+        <sys_scope_delete display_value="">9832e2f6edcb487395d69cb7fb69f3b1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_cdd4bfd71ba130108323404cbc4bcb5d</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_cdd4bfd71ba130108323404cbc4bcb5d">11d4bfd71ba130108323404cbc4bcb61</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-07-30 13:53:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
